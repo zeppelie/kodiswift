@@ -23,7 +23,7 @@ TODO: Clean up documentation.
 ## Upgrading from xbmcswift2
 
 This project is a fork of xbmcswift2. The APIs in the current release 
-are the same as xbmcswift2 but with added listitem properties and 
+are the same as xbmcswift2 but with added list-item properties and 
 other enhancements.
 
 ## Contributing
